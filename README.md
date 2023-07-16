@@ -1,6 +1,6 @@
 ### Hi there 👋, Sadid
 #### Flutter Developer || MERN Stack Developer
-![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/1911704_10205367537520818_6443965536823610731_n.png)
+![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
 
 I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ I am fluent in classics like Flutter | ReactJS | Node.js | Express | MongoDB . My field of Interest's are building new Mobile App and Web Technologies and also in areas related to Backend Development. Whenever possible, I also apply my passion for developing products with Flutter and Modern Javascript Library and Frameworks like React.js and Express.js
 
