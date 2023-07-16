@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">Flutter Developer || MERN Stack Developer</h3>
 
+![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadid369" alt="sadid369" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sadid_369" target="blank"><img src="https://img.shields.io/twitter/follow/sadid_369?logo=twitter&style=for-the-badge" alt="sadid_369" /></a> </p>
@@ -24,5 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&show_icons=true&locale=en&layout=compact" alt="sadid369" /></p>
 
 
-![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
+
 
