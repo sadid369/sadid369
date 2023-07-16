@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sadid_369" target="blank"><img src="https://img.shields.io/twitter/follow/sadid_369?logo=twitter&style=for-the-badge" alt="sadid_369" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sadid.dev/](https://sadid.dev/)
+- 👨‍💻 My Website [https://sadid.dev/](https://sadid.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
