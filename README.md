@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadid</h1>
-<h3 align="center">Flutter Developer || MERN Stack Developer</h3>
+<h3 align="center">Flutter Developer </h3>
 
 ![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
 
