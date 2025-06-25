@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">Flutter Developer </h3>
 
-![Flutter Developer || MERN Stack Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
+![Flutter Developer ](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner(1).png)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadid369" alt="sadid369" /></a> </p>
