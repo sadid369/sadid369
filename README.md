@@ -26,7 +26,7 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="provider" width="40" height="40"/> </a>
   <a href="https://pub.dev/packages/riverpod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="riverpod" width="40" height="40"/> </a>
-  <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="bloc" width="40" height="40"/> </a>
+  <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" alt="bloc" width="40" height="40"/> </a>
   <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getx/getx-icon.svg" alt="getx" width="40" height="40"/> </a>
   <a href="https://pub.dev/packages/shared_preferences" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="shared_preferences" width="40" height="40"/> </a>
   <a href="https://pub.dev/packages/sqflite" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqflite" width="40" height="40"/> </a>
