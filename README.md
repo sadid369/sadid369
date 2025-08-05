@@ -1,114 +1,156 @@
-# Hi 👋, I'm Sadid
-### Flutter Developer
+<div align="center">
 
-![Flutter Developer](https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+# Hi 👋, I'm **Sadid**
+### 🚀 *Passionate Flutter Developer & Mobile App Architect*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadid369" alt="sadid369" /></a> </p>
+<img src="https://github.com/sadid369/sadid369/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png" alt="Flutter Developer Banner" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/sadid_369" target="blank"><img src="https://img.shields.io/twitter/follow/sadid_369?logo=twitter&style=for-the-badge" alt="sadid_369" /></a> </p>
+<br/>
 
-- 👨‍💻 My Website [https://sadid.dev/](https://sadid.dev/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+App+Architect+%F0%9F%8F%97%EF%B8%8F;Cross-Platform+Expert+%E2%9A%A1;Clean+Code+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-## Connect with me:
-<p align="left">
-<a href="https://dev.to/sadid369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadid369" height="30" width="40" /></a>
-<a href="https://twitter.com/sadid_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadid_369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadid369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadid369" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17400099/sadid369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17400099/sadid369" height="30" width="40" /></a>
-<a href="https://fb.com/muhtasimsadid10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhtasimsadid10" height="30" width="40" /></a>
-<a href="https://instagram.com/sadid_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadid_369" height="30" width="40" /></a>
-<a href="https://medium.com/@sadid369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadid369" height="30" width="40" /></a>
-</p>
+<br/>
 
-## Skills and Tools:
+### 🌐 **Connect With Me**
 
-### Flutter & Dart Ecosystem
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://pub.dev/packages/riverpod" target="_blank" rel="noreferrer"> 
-    <img src="https://riverpod.dev/img/logo.svg" alt="riverpod" width="40" height="40"/> 
-  </a>
-  <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" alt="bloc" width="60" height="60"/> 
-  </a>
-  <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" alt="getx" width="60" height="60"/> 
-  </a>
-</p>
+<a href="https://sadid.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/sadid369" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/sadid_369" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://dev.to/sadid369" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+<a href="https://medium.com/@sadid369" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://stackoverflow.com/users/17400099/sadid369" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
 
-### Database & Storage
-<p align="left">
-  <a href="https://pub.dev/packages/sqflite" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqflite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-</p>
-
-### Web Development
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-</p>
-
-### Languages & Styling
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-</p>
-
-### Tools & Others
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-</p>
+<br/><br/>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&show_icons=true&locale=en&layout=compact" alt="sadid369" /></p>
+</div>
+
+## 🛠️ **Tech Arsenal**
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 **Flutter & Dart Ecosystem**
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Riverpod-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>
+<img src="https://img.shields.io/badge/BLoC-3949AB?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC"/>
+<img src="https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+</p>
+
+### 🗄️ **Database & Storage**
+<p align="left">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+</td>
+<td width="50%">
+
+### 🌐 **Web Development**
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### 💻 **Languages & Styling**
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+### 🛠️ **Development Tools**
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sadid369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid369&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+<br/>
+
+## 🏆 **Achievements**
+
+<img src="https://github-profile-trophy.vercel.app/?username=sadid369&theme=tokyonight&no-frame=true&column=7" alt="Trophy" width="100%"/>
+
+<br/>
+
+---
+
+### 💬 **Quote of the Day**
+*"The best way to predict the future is to create it."*
+
+<img src="https://komarev.com/ghpvc/?username=sadid369&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Fun Facts About Me**
+- 🔭 Currently working on **Cross-platform mobile solutions**
+- 🌱 Learning **Advanced Flutter Architecture Patterns**
+- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 💬 Ask me about **Flutter, Dart, State Management**
+- 📫 Reach me at: **[sadid.dev](https://sadid.dev)**
+- ⚡ Fun fact: **I debug with print statements and I'm not ashamed! 😄**
+
+<br/>
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
