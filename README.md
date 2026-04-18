@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sadid&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%26%20Mobile%20Architect&descAlignY=58&descSize=22&descColor=cccccc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Sadid&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Flutter%20Developer%20%26%20Mobile%20Architect&amp;descAlignY=58&amp;descSize=22&amp;descColor=cccccc"/>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 
 ### GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadid369&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sadid369&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10&amp;margin-h=10" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
@@ -105,15 +105,15 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadid369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF7B72" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sadid369&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=FF7B72" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" width="100%"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid369&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF7B72&fire=FF7B72&currStreakLabel=C9D1D9" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid369&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=58A6FF&amp;ring=FF7B72&amp;fire=FF7B72&amp;currStreakLabel=C9D1D9" width="70%"/>
 
 </div>
 
@@ -123,7 +123,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadid369&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FF7B72&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadid369&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=FF7B72&amp;point=C9D1D9&amp;area=true&amp;hide_border=true" width="100%"/>
 
 </div>
 
@@ -159,7 +159,7 @@ class Sadid extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sadid369&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sadid369&amp;color=58A6FF&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile Views"/>
 
 ### 🤝 Let's Build Something Remarkable Together
 
@@ -167,4 +167,4 @@ class Sadid extends FlutterDeveloper {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling"/>
