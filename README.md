@@ -1,14 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Sadid&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Flutter%20Developer%20%26%20Mobile%20Architect&amp;descAlignY=58&amp;descSize=22&amp;descColor=cccccc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadid&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%26%20Mobile%20Architect&descAlignY=58&descSize=22&descColor=cccccc"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+cross-platform+mobile+experiences;Clean+architecture+%7C+Beautiful+UI+%7C+Real-time+apps;Open+to+collaborate+on+exciting+Flutter+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+cross-platform+mobile+experiences;Clean+architecture+%7C+Beautiful+UI+%7C+Real-time+apps;Open+to+collaborate+on+exciting+Flutter+projects)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## 👋 About Me
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding animation"/>
 
 I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, focused on building high-quality cross-platform applications. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
 
@@ -17,8 +19,9 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 - 🌱 Exploring **AI/ML integration** in mobile apps and **Flutter Web & Desktop**
 - 💬 Ask me about **Flutter, Dart, state management, and app architecture**
 - 📫 Reach me at **[sadid.dev](https://sadid.dev)**
+- ⚡ Fun fact: *"Code is poetry written in logic. Every app should be a masterpiece that solves real problems beautifully."*
 
-> *"Code is poetry written in logic. Every app should be a masterpiece that solves real problems beautifully."*
+<br clear="right"/>
 
 ---
 
@@ -52,10 +55,10 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 ### State Management
 <div align="center">
 
-![GetX](https://img.shields.io/badge/GetX-9C88FF?style=for-the-badge&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-FF6B6B?style=for-the-badge&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-4ECDC4?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-45B7D1?style=for-the-badge&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8E44AD?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-4ECDC4?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-45B7D1?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -79,7 +82,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 
 ### GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadid369&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10&amp;margin-h=10" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sadid369&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
@@ -101,20 +104,14 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadid369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF7B72"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadid369&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=FF7B72" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid369&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" width="100%"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid369&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=58A6FF&amp;ring=FF7B72&amp;fire=FF7B72&amp;currStreakLabel=C9D1D9" width="70%"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid369&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF7B72&fire=FF7B72&currStreakLabel=C9D1D9" width="70%"/>
 </div>
 
 ---
@@ -122,9 +119,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** based in Bangladesh, f
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadid369&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=FF7B72&amp;point=C9D1D9&amp;area=true&amp;hide_border=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadid369&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FF7B72&point=C9D1D9&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -153,18 +148,3 @@ class Sadid extends FlutterDeveloper {
   String get motto =>
     'Ship fast. Refactor often. Never stop learning.';
 }
-```
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sadid369&amp;color=58A6FF&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile Views"/>
-
-### 🤝 Let's Build Something Remarkable Together
-
-*Open to freelance projects, collaborations, and full-time opportunities.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling"/>
