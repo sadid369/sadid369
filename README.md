@@ -28,7 +28,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй 
 
 ---
 
-## ЁЯФЧ Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -43,7 +43,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй 
 
 ---
 
-## ЁЯЫая╕П Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй 
 
 ---
 
-## ЁЯТ╝ What I'm Building
+## What I'm Building
 
 ```dart
 class Sadid extends FlutterDeveloper {
@@ -104,7 +104,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## ЁЯПЖ Core Expertise
+## Core Expertise
 
 <div align="center">
 
@@ -125,7 +125,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## ЁЯУК GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -142,7 +142,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## ЁЯУИ Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -152,7 +152,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## ЁЯОЦя╕П Key Milestones
+## Key Milestones
 
 <div align="center">
 
@@ -173,7 +173,7 @@ class Sadid extends FlutterDeveloper {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadid369&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
-### ЁЯдЭ Let's Build Something Remarkable Together
+### Let's Build Something Remarkable Together
 
 *Open to freelance projects, collaborations, and full-time opportunities.*
 
