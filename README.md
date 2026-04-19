@@ -104,11 +104,22 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## ЁЯПЖ GitHub Trophies
+## ЁЯПЖ Core Expertise
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadid369&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
+![Flutter Expert](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Practitioner-6A0DAD?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Real--time_Systems-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-Advanced-9C27B0?style=for-the-badge&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-FF6B6B?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GoRouter](https://img.shields.io/badge/GoRouter-Navigation-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-Proficient-00BCD4?style=for-the-badge&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-Dev.to_%26_Medium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play_Store-Published-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 </div>
 
