@@ -14,7 +14,7 @@
 
 ---
 
-## ЁЯСЛ About Me
+## About Me
 
 I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй **Bangladesh**, focused on building high-quality cross-platform mobile experiences. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
 
