@@ -156,14 +156,14 @@ class Sadid extends FlutterDeveloper {
 
 <div align="center">
 
-| ЁЯПЕ | Milestone | Detail |
+|  Milestone | Detail |
 |:---:|:---|:---|
-| ЁЯЪА | **Apps Shipped** | Multiple production Flutter apps on Play Store & App Store |
-| ЁЯПЧя╕П | **Architecture** | Clean Architecture across large-scale Flutter projects |
-| ЁЯФД | **Real-time Systems** | WebSocket-powered live-update systems for fantasy sports |
-| ЁЯУж | **Open Source** | Active contributor with public Flutter packages & utilities |
-| ЁЯзй | **State Management** | Proficient in GetX ┬╖ Riverpod ┬╖ BLoC ┬╖ Provider |
-| тЬНя╕П | **Technical Writing** | Published articles on Dev.to & Medium about Flutter best practices |
+| **Apps Shipped** | Multiple production Flutter apps on Play Store & App Store |
+|  **Architecture** | Clean Architecture across large-scale Flutter projects |
+|  **Real-time Systems** | WebSocket-powered live-update systems for fantasy sports |
+|  **Open Source** | Active contributor with public Flutter packages & utilities |
+|  **State Management** | Proficient in GetX ┬╖ Riverpod ┬╖ BLoC ┬╖ Provider |
+|  **Technical Writing** | Published articles on Dev.to & Medium about Flutter best practices |
 
 </div>
 
@@ -177,7 +177,7 @@ class Sadid extends FlutterDeveloper {
 
 *Open to freelance projects, collaborations, and full-time opportunities.*
 
-**[sadid.dev](https://sadid.dev)** ┬╖ **[LinkedIn](https://linkedin.com/in/sadid369)** ┬╖ **[Twitter](https://twitter.com/sadid_369)**
+**[sadid.dev](https://sadid.dev)**  **[LinkedIn](https://linkedin.com/in/sadid369)**  **[Twitter](https://twitter.com/sadid_369)**
 
 </div>
 
