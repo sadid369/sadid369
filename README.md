@@ -14,21 +14,21 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй **Bangladesh**, focused on building high-quality cross-platform mobile experiences. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
+I'm a passionate **Flutter Developer & Mobile Architect** from 🇧🇩 **Bangladesh**, focused on building high-quality cross-platform mobile experiences. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
 
-- ЁЯФн Currently building a **Fantasy Sports Platform** with real-time WebSocket updates  
-- ЁЯПЧя╕П Practicing **Clean Architecture** with GetX, Riverpod, and BLoC patterns  
-- ЁЯМ▒ Exploring **AI/ML integration** in mobile apps and **Flutter Web & Desktop**  
-- ЁЯТм Ask me about **Flutter, Dart, state management, and app architecture**  
-- ЁЯУл Reach me at **[sadid.dev](https://sadid.dev)**  
+- 🔭 Currently building a **Fantasy Sports Platform** with real-time WebSocket updates  
+- 🏗️ Practicing **Clean Architecture** with GetX, Riverpod, and BLoC patterns  
+- 🌱 Exploring **AI/ML integration** in mobile apps and **Flutter Web & Desktop**  
+- 💬 Ask me about **Flutter, Dart, state management, and app architecture**  
+- 📫 Reach me at **[sadid.dev](https://sadid.dev)**  
 
 > *"Code is poetry written in logic. Every app should be a masterpiece that solves real problems beautifully."*
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -43,7 +43,7 @@ I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -75,11 +75,11 @@ I'm a passionate **Flutter Developer & Mobile Architect** from ЁЯЗзЁЯЗй 
 
 ---
 
-## What I'm Building
+## 💼 What I'm Building
 
 ```dart
 class Sadid extends FlutterDeveloper {
-  final String location = 'ЁЯЗзЁЯЗй Bangladesh';
+  final String location = '🇧🇩 Bangladesh';
   final String currentProject = 'Fantasy Sports Platform';
 
   final Architecture architecture = Architecture(
@@ -91,10 +91,10 @@ class Sadid extends FlutterDeveloper {
   );
 
   final List<String> focusAreas = [
-    'ЁЯПЖ Scalable league management systems',
-    'тЪб Real-time score & update pipelines',
-    'ЁЯзй Reusable component design patterns',
-    'ЁЯЪА Performance optimization',
+    '🏆 Scalable league management systems',
+    '⚡ Real-time score & update pipelines',
+    '🧩 Reusable component design patterns',
+    '🚀 Performance optimization',
   ];
 
   @override
@@ -104,7 +104,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## Core Expertise
+## 🏆 Core Expertise
 
 <div align="center">
 
@@ -125,7 +125,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -142,7 +142,7 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -152,18 +152,18 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## Key Milestones
+## 🎖️ Key Milestones
 
 <div align="center">
 
-|  Milestone | Detail |
+| 🏅 | Milestone | Detail |
 |:---:|:---|:---|
-| **Apps Shipped** | Multiple production Flutter apps on Play Store & App Store |
-|  **Architecture** | Clean Architecture across large-scale Flutter projects |
-|  **Real-time Systems** | WebSocket-powered live-update systems for fantasy sports |
-|  **Open Source** | Active contributor with public Flutter packages & utilities |
-|  **State Management** | Proficient in GetX ┬╖ Riverpod ┬╖ BLoC ┬╖ Provider |
-|  **Technical Writing** | Published articles on Dev.to & Medium about Flutter best practices |
+| 🚀 | **Apps Shipped** | Multiple production Flutter apps on Play Store & App Store |
+| 🏗️ | **Architecture** | Clean Architecture across large-scale Flutter projects |
+| 🔄 | **Real-time Systems** | WebSocket-powered live-update systems for fantasy sports |
+| 📦 | **Open Source** | Active contributor with public Flutter packages & utilities |
+| 🧩 | **State Management** | Proficient in GetX · Riverpod · BLoC · Provider |
+| ✍️ | **Technical Writing** | Published articles on Dev.to & Medium about Flutter best practices |
 
 </div>
 
@@ -173,11 +173,11 @@ class Sadid extends FlutterDeveloper {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadid369&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
-### Let's Build Something Remarkable Together
+### 🤝 Let's Build Something Remarkable Together
 
 *Open to freelance projects, collaborations, and full-time opportunities.*
 
-**[sadid.dev](https://sadid.dev)**  **[LinkedIn](https://linkedin.com/in/sadid369)**  **[Twitter](https://twitter.com/sadid_369)**
+**[sadid.dev](https://sadid.dev)** · **[LinkedIn](https://linkedin.com/in/sadid369)** · **[Twitter](https://twitter.com/sadid_369)**
 
 </div>
 
