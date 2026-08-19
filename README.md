@@ -139,13 +139,6 @@ An arcade-style game built on the **Flame** engine with Firebase backing and Get
 
 </div>
 
----
-
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sadid369&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF7B72&fire=FF7B72&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak"/>
 
 </div>
 
