@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sadid369&color=58A6FF&style=flat-square&label=Profile+Views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/sadid369?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/Based_in-Bangladesh_🇧🇩-1a1a2e?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
