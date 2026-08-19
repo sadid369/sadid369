@@ -1,5 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Sadid&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Sr.%20Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Dart&descAlignY=62&descSize=20&descColor=8b949e"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Sadid&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20Architect&descAlignY=62&descSize=20&descColor=8b949e"/>
+
 </div>
 
 <div align="center">
@@ -7,21 +9,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+cross-platform+mobile+experiences+%F0%9F%9A%80;Clean+Architecture+%7C+Beautiful+UI+%7C+Real-time+Apps;Open+to+collaborate+on+exciting+Flutter+projects+%F0%9F%A4%9D)](https://github.com/sadid369)
 
 </div>
+
 <br/>
 
 ---
 
 ## 👋 About Me
 
-I'm **Abdullah Muhtasim Sadid**, a **Sr. Mobile App Developer** at **Sparktech Agency**, based in 🇧🇩 **Bangladesh**. I specialize in building intuitive, high-quality cross-platform mobile experiences with **Flutter & Dart**. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
+I'm a passionate **Flutter Developer & Mobile Architect** from 🇧🇩 **Bangladesh**, focused on building high-quality cross-platform mobile experiences. I care deeply about clean code, scalable architecture, and delivering polished user experiences.
 
-- 🔭 Currently building a **Fantasy Sports Platform** with real-time WebSocket updates
-- 🏗️ Practicing **Clean Architecture** with GetX, Riverpod, and BLoC patterns
-- 🎮 Shipped **2 games** and **2 apps** on the Google Play Store
-- 🎓 Certified by **Google Play Academy** — Store Listing (App Publishing, Play Console, Android App Distribution)
-- 🌱 Exploring **AI/ML integration** in mobile apps and **Flutter Web & Desktop**
-- 💬 Ask me about **Flutter, Dart, state management, and app architecture**
-- 📫 Reach me at **[sadid.dev](https://sadid.dev/)**
+- 🔭 Currently building a **Fantasy Sports Platform** with real-time WebSocket updates  
+- 🏗️ Practicing **Clean Architecture** with GetX, Riverpod, and BLoC patterns  
+- 🌱 Exploring **AI/ML integration** in mobile apps and **Flutter Web & Desktop**  
+- 💬 Ask me about **Flutter, Dart, state management, and app architecture**  
+- 📫 Reach me at **[sadid.dev](https://sadid.dev)**  
 
 > *"Code is poetry written in logic. Every app should be a masterpiece that solves real problems beautifully."*
 
@@ -31,8 +32,8 @@ I'm **Abdullah Muhtasim Sadid**, a **Sr. Mobile App Developer** at **Sparktech A
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sadid.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadid369/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sadid.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadid369)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sadid_369)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sadid369)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sadid369)
@@ -78,8 +79,6 @@ I'm **Abdullah Muhtasim Sadid**, a **Sr. Mobile App Developer** at **Sparktech A
 
 ```dart
 class Sadid extends FlutterDeveloper {
-  final String fullName = 'Abdullah Muhtasim Sadid';
-  final String role = 'Sr. Mobile App Developer @ Sparktech Agency';
   final String location = '🇧🇩 Bangladesh';
   final String currentProject = 'Fantasy Sports Platform';
 
@@ -105,20 +104,6 @@ class Sadid extends FlutterDeveloper {
 
 ---
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-[![e_admin](https://github-readme-stats.vercel.app/api/pin/?username=sadid369&repo=e_admin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=FF7B72)](https://github.com/sadid369/e_admin)
-[![e_client](https://github-readme-stats.vercel.app/api/pin/?username=sadid369&repo=e_client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=FF7B72)](https://github.com/sadid369/e_client)
-
-[![sadid-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sadid369&repo=sadid-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=FF7B72)](https://github.com/sadid369/sadid-portfolio)
-[![notes_app_bloc](https://github-readme-stats.vercel.app/api/pin/?username=sadid369&repo=notes_app_bloc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=FF7B72)](https://github.com/sadid369/notes_app_bloc)
-
-</div>
-
----
-
 ## 🏆 Core Expertise
 
 <div align="center">
@@ -134,7 +119,7 @@ class Sadid extends FlutterDeveloper {
 ![BLoC](https://img.shields.io/badge/BLoC-Proficient-00BCD4?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA043?style=for-the-badge&logo=github&logoColor=white)
 ![Technical Writing](https://img.shields.io/badge/Technical_Writing-Dev.to_%26_Medium-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![Play Store](https://img.shields.io/badge/Play_Store-2_Apps_%7C_2_Games-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play_Store-Published-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 </div>
 
@@ -143,12 +128,16 @@ class Sadid extends FlutterDeveloper {
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadid369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&icon_color=FF7B72"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&langs_count=8"/>
+
 </div>
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=sadid369&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF7B72&fire=FF7B72&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -156,7 +145,9 @@ class Sadid extends FlutterDeveloper {
 ## 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadid369&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FF7B72&point=ffffff&area=true&area_color=58A6FF&hide_border=true" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 ---
@@ -167,12 +158,11 @@ class Sadid extends FlutterDeveloper {
 
 | 🏅 | Milestone | Detail |
 |:---:|:---|:---|
-| 🚀 | **Apps Shipped** | 2 apps & 2 games published on the Google Play Store |
+| 🚀 | **Apps Shipped** | Multiple production Flutter apps on Play Store & App Store |
 | 🏗️ | **Architecture** | Clean Architecture across large-scale Flutter projects |
 | 🔄 | **Real-time Systems** | WebSocket-powered live-update systems for fantasy sports |
-| 📦 | **Open Source** | 345+ public repositories, 90+ stars earned |
+| 📦 | **Open Source** | Active contributor with public Flutter packages & utilities |
 | 🧩 | **State Management** | Proficient in GetX · Riverpod · BLoC · Provider |
-| 🎓 | **Certification** | Google Play Academy — Store Listing Certificate |
 | ✍️ | **Technical Writing** | Published articles on Dev.to & Medium about Flutter best practices |
 
 </div>
@@ -187,7 +177,7 @@ class Sadid extends FlutterDeveloper {
 
 *Open to freelance projects, collaborations, and full-time opportunities.*
 
-**[sadid.dev](https://sadid.dev/)** · **[LinkedIn](https://www.linkedin.com/in/sadid369/)** · **[Twitter](https://twitter.com/sadid_369)**
+**[sadid.dev](https://sadid.dev)** · **[LinkedIn](https://linkedin.com/in/sadid369)** · **[Twitter](https://twitter.com/sadid_369)**
 
 </div>
 
