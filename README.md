@@ -141,12 +141,7 @@ An arcade-style game built on the **Flame** engine with Firebase backing and Get
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e&langs_count=8" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=sadid369&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="48%"/>
 
 <br/><br/>
 
