@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.co/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadid&fontSize=76&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Architect&descAlignY=58&descSize=20&descColor=8b949e"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.co/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sadid&fontSize=76&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Architect&descAlignY=58&descSize=20&descColor=8b949e"/> -->
 
 <a href="https://github.com/sadid369">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+cross-platform+mobile+experiences+%F0%9F%9A%80;Clean+Architecture+%7C+Beautiful+UI+%7C+Real-time+Apps;Open+to+collaborate+on+exciting+Flutter+projects+%F0%9F%A4%9D" alt="Typing SVG"/>
