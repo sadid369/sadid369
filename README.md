@@ -16,6 +16,14 @@
 
 <br/>
 
+<div align="center">
+
+<img width="100%" src="gh-space-shooter.webp" alt="GitHub contribution graph space shooter" />
+
+</div>
+
+<br/>
+
 <table align="center">
 <tr>
 <td width="60%" valign="top">
